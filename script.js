@@ -10,3 +10,9 @@ var andre = new Person("Andre", "Kuznetcov", 21);
 andre.prototype.religion = "None.";
 
 console.log("Hello my dear " + andre.name +" "+ andre.surname +" of "+ andre.age + "years old, religiously he is " + andre.religion);
+
+
+$(function(){
+    $("h1").get(0).text("just some text in here");
+
+});
