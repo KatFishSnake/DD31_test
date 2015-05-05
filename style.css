@@ -65,16 +65,14 @@ p{
 @media (max-width:570px) {
     .box {
         height: 270px;
-
     }
 
 }
+
 @media (max-width:420px){
     .box{
         height: 220px;
-
     }
-
 
 }
 
